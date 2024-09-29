@@ -1,0 +1,7 @@
+torch>=1.9.0
+transformers>=4.10.0
+streamlit>=1.4.0  # If using Streamlit for the web app
+Pillow>=8.3.1     # For handling image files
+opencv-python>=4.5.3 # For image preprocessing (optional, if needed)
+tqdm>=4.62.0      # For progress bars
+numpy>=1.21.0     # For array manipulations (if needed)
