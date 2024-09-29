@@ -6,10 +6,10 @@ This project aims to develop a web-based prototype capable of performing Optical
 ## Scope
 The assignment focuses on creating a web application that:
 
--Allows users to upload a single image in common formats (JPEG, PNG, etc.).
--Extracts text using OCR.
--Provides keyword search functionality based on the extracted text.
-=Is deployed and accessible online.
+- Allows users to upload a single image in common formats (JPEG, PNG, etc.).
+- Extracts text using OCR.
+- Provides keyword search functionality based on the extracted text.
+- Is deployed and accessible online.
 
 ## Tasks Breakdown
 ### Task 1: Environment Setup and OCR Implementation
