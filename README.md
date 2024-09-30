@@ -43,15 +43,15 @@ Choose from the following OCR models:
 
 ### Task 3: Deployment
 #### Deployment:
-- Deploy the web application on platforms like Hugging Faces or Streamlit Sharing.
+- Deploy the web application on platforms like Streamlit Sharing.
 - Ensure the web application is accessible via a public URL.
  
 ## How to Set Up the Environment Locally
 ### Prerequisites:
 - Python 3.x
-- Huggingface Transformers
+-  Tesseract
 - PyTorch
-- Streamlit or Gradio
+- Streamlit 
 
 
 ### Steps:
@@ -64,15 +64,23 @@ cd OCR_and_Document_Search_Web_Application
 ```bash
 pip install -r requirements.txt
 ```
-3.Run the web application: For Streamlit:
+3. Run the web application: For Streamlit:
 ```bash
-streamlit run app.py
+streamlit run ocr_streamlit_app.py
 ```
+
+## How to use
+### Step 1: 
+
+### Step 2:
+
+### Step 3: Wait for the download and get a response.
+
+
+
 ## Contact
-For any issues or inquiries, please contact at guptakshita210@gmail.com.
+If you have any issues or questions, please contact me at guptakshita210@gmail.com.
  
-
-
 
 
 
