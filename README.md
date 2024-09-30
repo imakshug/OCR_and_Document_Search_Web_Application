@@ -17,7 +17,7 @@ The assignment focuses on creating a web application that:
 - Set up a Python environment with the following libraries:
 Huggingface Transformers
 PyTorch
-Streamlit or Gradio (for the web interface)
+Streamlit (for the web interface)
 -Install any other necessary dependencies for OCR.
 
 
