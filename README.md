@@ -75,11 +75,12 @@ streamlit run ocr_streamlit_app.py
 ### Step 2:
 
 ### Step 3: Wait for the download and get a response.
+<img src="C:\Users\akarn\OneDrive\Pictures\Screenshots\Screenshot 2024-09-30 211523.png" alt="Remote Image" width="200" height="100">
 
 
 
 ## Contact
-If you have any issues or questions, please contact me at guptakshita210@gmail.com.
+If you have any issues or questions, please get in touch with me at guptakshita210@gmail.com.
  
 
 
