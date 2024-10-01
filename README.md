@@ -78,7 +78,7 @@ streamlit run ocr_streamlit_app.py
 <img src="https://github.com/user-attachments/assets/5ad94652-1b87-49fe-b878-b6d73b75fae1" alt="Remote Image" width="800" height="400">
 
 ### Step 3: Wait for the download and get a response.
-<img src="https://github.com/user-attachments/assets/12ed022a-3eca-4be8-9abb-3d074fccfe6a" alt="Remote Image" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/12ed022a-3eca-4be8-9abb-3d074fccfe6a" alt="Remote Image" width="800" height="500">
 
 ## Contact
 If you have any issues or questions, please get in touch with me at guptakshita210@gmail.com.
