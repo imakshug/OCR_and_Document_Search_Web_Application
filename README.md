@@ -3,11 +3,21 @@
 ## Objective
 This project aims to develop a web-based prototype capable of performing Optical Character Recognition (OCR) on an uploaded image containing text in both Hindi and English. The application also includes a basic keyword search functionality based on the extracted text. The web application is accessible via a live URL.
 
+## How to use
+### Step 1: Use the [streamlit application.](https://ocr-document-search-web-application.streamlit.app/)
+<img src="https://github.com/user-attachments/assets/896732b2-829b-43d0-b4f1-7c3195f7421b" alt="Remote Image" width="800" height="400">
+
+### Step 2: Drag and drop or upload a file.
+<img src="https://github.com/user-attachments/assets/5ad94652-1b87-49fe-b878-b6d73b75fae1" alt="Remote Image" width="800" height="400">
+
+### Step 3: Wait for the download and get a response.
+<img src="https://github.com/user-attachments/assets/12ed022a-3eca-4be8-9abb-3d074fccfe6a" alt="Remote Image" width="800" height="600">
+
 ## Scope
 The assignment focuses on creating a web application that:
 
 - Allows users to upload a single image in common formats (JPEG, PNG, etc.).
-- Extracts text using OCR.
+- Extract text using OCR.
 - Provides keyword search functionality based on the extracted text.
 - Is deployed and accessible online.
 
@@ -69,16 +79,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run ocr_streamlit_app.py
 ```
-
-## How to use
-### Step 1: Use the [streamlit application.](https://ocr-document-search-web-application.streamlit.app/)
-<img src="https://github.com/user-attachments/assets/896732b2-829b-43d0-b4f1-7c3195f7421b" alt="Remote Image" width="800" height="400">
-
-### Step 2: Drag and drop or upload a file.
-<img src="https://github.com/user-attachments/assets/5ad94652-1b87-49fe-b878-b6d73b75fae1" alt="Remote Image" width="800" height="400">
-
-### Step 3: Wait for the download and get a response.
-<img src="https://github.com/user-attachments/assets/12ed022a-3eca-4be8-9abb-3d074fccfe6a" alt="Remote Image" width="800" height="600">
 
 ## Contact
 If you have any issues or questions, please get in touch with me at guptakshita210@gmail.com.
