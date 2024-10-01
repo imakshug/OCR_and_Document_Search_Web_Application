@@ -65,20 +65,20 @@ cd OCR_and_Document_Search_Web_Application
 ```bash
 pip install -r requirements.txt
 ```
-3.Run the web application: For Streamlit:
+3. Run the web application: For Streamlit:
 ```bash
 streamlit run ocr_streamlit_app.py
 ```
 
 ## How to use
 ### Step 1: Use the [streamlit application.](https://ocr-document-search-web-application.streamlit.app/)
-<img src="https://github.com/user-attachments/assets/f8d04cee-4454-427a-a43c-d12eb0e341d9" alt="Remote Image" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/896732b2-829b-43d0-b4f1-7c3195f7421b" alt="Remote Image" width="800" height="400">
 
 ### Step 2: Drag and drop or upload a file.
-<img src="https://github.com/user-attachments/assets/f8d04cee-4454-427a-a43c-d12eb0e341d9" alt="Remote Image" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/5ad94652-1b87-49fe-b878-b6d73b75fae1" alt="Remote Image" width="800" height="400">
 
 ### Step 3: Wait for the download and get a response.
-<img src="https://github.com/user-attachments/assets/f8d04cee-4454-427a-a43c-d12eb0e341d9" alt="Remote Image" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/12ed022a-3eca-4be8-9abb-3d074fccfe6a" alt="Remote Image" width="800" height="400">
 
 ## Contact
 If you have any issues or questions, please get in touch with me at guptakshita210@gmail.com.
